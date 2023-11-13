@@ -1,0 +1,11 @@
+{
+    "users": [
+      { 
+        "id": 1,
+        "name": "Manoj", 
+        "lname": "Jadhav",
+        "bio":"hello world.....!!",
+        "job_loc":"uk"
+     }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Manoj",
+      "lname": "Jadhav",
+      "bio": "bsdfjibwed",
+      "job_loc": "uk"
+    },
+    {
+      "name": "pushpa",
+      "lname": "raaj",
+      "bio": "fnjknfsdk k",
+      "job_loc": "pak",
+      "id": 4
+    }
+  ]
+}
